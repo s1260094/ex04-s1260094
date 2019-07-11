@@ -10,7 +10,7 @@ print("Die 1: "+ str(dice1))
 print("Die 2: "+ str(dice2))
 print("Total value: "+ str(total))
 if total <= 7:
-  print("You lost")
+  print(name +" lost")
 else:
-  print("You won")
+  print(name +" won")
 
